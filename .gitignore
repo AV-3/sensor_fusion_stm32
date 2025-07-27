@@ -1,2 +1,6 @@
-/firmware/
+/Debug/
+/Release/
+.settings/
 .project
+.cproject
+*.launch
